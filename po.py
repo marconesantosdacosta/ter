@@ -1,1 +1,1 @@
-print ('bom dia')
+print ('bom ra')
